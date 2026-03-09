@@ -1,5 +1,0 @@
-resnet50_fp32_onnxrt_cpu.yaml
-resnet50_int8_qdq_onnxrt_cpu.yaml
-vit_fp32_torch_eager_cuda.yaml
-vit_fp32_torch_compile_cuda.yaml
-patchcore_fp32_onnxrt_cpu.yaml
