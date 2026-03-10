@@ -1,1 +1,7 @@
-
+python3
+pytroch
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
